@@ -13,4 +13,4 @@
 Link: https://github.com/frlzjosh/solo-fans-ui
 
 # Solo Fans Architecture
-https://cdn.discordapp.com/attachments/739328290707210430/786280130367848488/FINAL_OFF-TOP_ARCHITECTURE.png
+![Alt text]("https://cdn.discordapp.com/attachments/739328290707210430/786280130367848488/FINAL_OFF-TOP_ARCHITECTURE.png") 
