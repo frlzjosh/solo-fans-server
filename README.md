@@ -9,5 +9,5 @@
 - I am the only person that worked on this application.
 
 
-#Solo Fans UI
+# Solo Fans UI
 Link: https://github.com/frlzjosh/solo-fans-ui
