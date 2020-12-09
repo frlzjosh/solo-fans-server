@@ -1,0 +1,5 @@
+- I have created a home automation service that will read temperature data and will turn on a fan in the event it get's too hot in your room. 
+- I would say 85% of it is working because I am not succesfully streaming this temperature data to my back-end service. 
+- My biggest issue was finding a reliable source to use to utlize MQTT on my ARDUINO Nano 33 IOT embedded device. It is a new device and there are just so many brokers, libraries, and workflow to incorporate MQTT to an embedded device.
+- I purchased an Arduino NANO 33 IOT so I can have access to wifi, solder tool, and solder iron
+- I would say I spent about at leat 60 hours.
